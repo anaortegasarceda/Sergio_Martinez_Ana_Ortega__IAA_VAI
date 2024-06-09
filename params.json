@@ -1,0 +1,6 @@
+[
+  {"activation":"relu"},
+  {"activation":"tanh"},
+  {"dropout_rate":0.2},
+  {"dropout_rate":0.5}
+]
